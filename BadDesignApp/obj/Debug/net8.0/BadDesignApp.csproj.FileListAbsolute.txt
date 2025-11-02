@@ -1,0 +1,15 @@
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/bin/Debug/net8.0/BadDesignApp
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/bin/Debug/net8.0/BadDesignApp.deps.json
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/bin/Debug/net8.0/BadDesignApp.runtimeconfig.json
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/bin/Debug/net8.0/BadDesignApp.dll
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/bin/Debug/net8.0/BadDesignApp.pdb
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/BadDesignApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/BadDesignApp.AssemblyInfoInputs.cache
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/BadDesignApp.AssemblyInfo.cs
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/BadDesignApp.csproj.CoreCompileInputs.cache
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/BadDesignApp.sourcelink.json
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/BadDesignApp.dll
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/refint/BadDesignApp.dll
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/BadDesignApp.pdb
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/BadDesignApp.genruntimeconfig.cache
+/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/obj/Debug/net8.0/ref/BadDesignApp.dll
