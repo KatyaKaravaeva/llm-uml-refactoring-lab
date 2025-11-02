@@ -5,7 +5,7 @@
   },
   "projects": {
     "/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp.Tests/BadDesignApp.Tests.csproj": {
-      "version": "1.0.0",
+      "version": "9.0.0",
       "restore": {
         "projectUniqueName": "/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp.Tests/BadDesignApp.Tests.csproj",
         "projectName": "BadDesignApp.Tests",
@@ -52,6 +52,10 @@
               "target": "Package",
               "version": "[17.8.0, )"
             },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.70, )"
+            },
             "coverlet.collector": {
               "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
               "suppressParent": "All",
@@ -90,7 +94,7 @@
       }
     },
     "/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/BadDesignApp.csproj": {
-      "version": "1.0.0",
+      "version": "9.0.0",
       "restore": {
         "projectUniqueName": "/Users/ekaterinakaravaeva/Desktop/test-project/BadDesignApp/BadDesignApp.csproj",
         "projectName": "BadDesignApp",

@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("BadDesignApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+98cb735c8cc1b785fa47673aa043d6229ca382ff")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("9.0.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("9.0+29eed01dcde74f908e6cb6f9a5ed48ff44d3967e")]
 [assembly: System.Reflection.AssemblyProductAttribute("BadDesignApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BadDesignApp")]
-[assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("9.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
 
